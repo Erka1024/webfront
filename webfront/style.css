@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+
+}
+.background1{
+    background-color: #C4E2DA;
+    width:100%;height:auto;display:table;
+}
